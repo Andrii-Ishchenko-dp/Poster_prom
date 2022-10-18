@@ -1,7 +1,7 @@
 import requests
 import xlwt
 
-token = '578064:4602865fe26394f496eb17b40a03f60b'
+token = input('Введите токен аккаунта: ')
 
 cheks=[]
 count_cheks=0
